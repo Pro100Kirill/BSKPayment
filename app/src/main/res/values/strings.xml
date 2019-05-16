@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BSKPayment</string>
+    <string name="hello">Hello</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="ButtoonRegistration" />
+    <string name="ButtonLogin" />
+    <string name="BottonLogin" />
+    <string name="registration" />
+</resources>
